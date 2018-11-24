@@ -20,6 +20,12 @@ BASIC_ROM=/usr/local/lib/atari/ROMS/ATARIBAS.ROM
 5200_ROM=/usr/local/lib/atari/ROMS/5200.ROM
 
 
+Atari 800 Emulator, Version 2.2.0
+OS/A_ROM=/usr/share/atari800/atariosa.rom
+OS/B_ROM=/usr/share/atari800/atariosb.rom
+XL/XE_ROM=/usr/share/atari800/atarixl.rom
+BASIC_ROM=/usr/share/atari800/ataribas.rom
+5200_ROM=/usr/share/atari800/5200.rom
 
 
 
