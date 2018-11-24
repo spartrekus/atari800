@@ -1,3 +1,28 @@
+Atari800 FORK
+-------------------------------
+
+/usr/share/atari800 for the roms if cfg not found
+
+atari800.cfg shall be there
+change the roms place.
+
+Atari 800 Emulator, Version 2.2.0
+OS/A_ROM=/usr/local/lib/atari/ROMS/ATARIOSA.ROM
+OS/B_ROM=/usr/local/lib/atari/ROMS/ATARIOSB.ROM
+XL/XE_ROM=/usr/local/lib/atari/ROMS/ATARIXL.ROM
+BASIC_ROM=/usr/local/lib/atari/ROMS/ATARIBAS.ROM
+5200_ROM=/usr/local/lib/atari/ROMS/5200.ROM
+Atari 800 Emulator, Version 2.2.0
+OS/A_ROM=/usr/local/lib/atari/ROMS/ATARIOSA.ROM
+OS/B_ROM=/usr/local/lib/atari/ROMS/ATARIOSB.ROM
+XL/XE_ROM=/usr/local/lib/atari/ROMS/ATARIXL.ROM
+BASIC_ROM=/usr/local/lib/atari/ROMS/ATARIBAS.ROM
+5200_ROM=/usr/local/lib/atari/ROMS/5200.ROM
+
+
+
+
+
 Atari800 emulator version 4.0.0
 -------------------------------
 
