@@ -3,6 +3,8 @@ Atari800 FORK
 
 /usr/share/atari800 for the roms if cfg not found
 
+(default location is ~/.atari800.cfg), here is my atari800.cfg file 
+
 atari800.cfg shall be there
 change the roms place.
 
